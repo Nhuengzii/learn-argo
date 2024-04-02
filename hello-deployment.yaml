@@ -14,7 +14,7 @@ metadata:
   labels:
     app: hello-myapp
 spec:
-  replicas: 3
+  replicas: 12
   selector:
     matchLabels:
       app: hello-myapp
