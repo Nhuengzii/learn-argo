@@ -1,4 +1,4 @@
-dataHello: From Pure values Config map
+dataHello: From Pure values Config map V55555
 namespace: hello-dev
 apiType: dev
 nodePort: 30001
