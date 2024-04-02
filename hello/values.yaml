@@ -1,0 +1,5 @@
+dataHello: From Pure values Config map
+namespace: hello-dev
+apiType: dev
+nodePort: 30001
+apiPrefix: /dev

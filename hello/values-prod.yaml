@@ -1,0 +1,5 @@
+dataHello: From Production values Config map
+namespace: hello-prod
+apiType: release
+nodePort: 30002
+apiPrefix: /release
